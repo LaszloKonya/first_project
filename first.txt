@@ -1,0 +1,3 @@
+Hello GIT training!
+
+I'm waiting for lunch.
