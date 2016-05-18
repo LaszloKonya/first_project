@@ -2,3 +2,4 @@ Hello GIT training!
 New row.
 I'm waiting for lunch.
 master feature 2
+valtoztatas
